@@ -25,7 +25,6 @@ G:\practice\skinet\API\obj\Debug\net7.0\staticwebassets.pack.json
 G:\practice\skinet\API\obj\Debug\net7.0\staticwebassets.build.json
 G:\practice\skinet\API\obj\Debug\net7.0\staticwebassets.development.json
 G:\practice\skinet\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
-G:\practice\skinet\API\obj\Debug\net7.0\API.csproj.CopyComplete
 G:\practice\skinet\API\obj\Debug\net7.0\API.dll
 G:\practice\skinet\API\obj\Debug\net7.0\refint\API.dll
 G:\practice\skinet\API\obj\Debug\net7.0\API.pdb
@@ -67,3 +66,5 @@ G:\practice\skinet\API\bin\Debug\net7.0\Humanizer.dll
 G:\practice\skinet\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 G:\practice\skinet\API\bin\Debug\net7.0\Mono.TextTemplating.dll
 G:\practice\skinet\API\bin\Debug\net7.0\System.CodeDom.dll
+G:\practice\skinet\API\obj\Debug\net7.0\API.sourcelink.json
+G:\practice\skinet\API\obj\Debug\net7.0\API.csproj.Up2Date
